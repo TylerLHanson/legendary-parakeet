@@ -1,2 +1,2 @@
 # legendary-parakeet
-working with advanced git course 
+advanced git course 
